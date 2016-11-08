@@ -1,2 +1,2 @@
-# peetics
-Petits git repository
+# peetic
+Peetic git repository
