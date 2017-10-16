@@ -1,0 +1,9 @@
+language: java
+notifications:
+  webhooks:
+    on_failure: always
+    on_start: never
+    on_cancel: always
+    on_error: always
+    urls:
+      - secure: "x/2So7fgMWhDtHvXt/RDuwXl4MYgPt401jnNtB5zmxPzIf5Ht33sEdinwzfz466/ej1lcBM6hoWcjNDPIXFNpMT3CnqiVISUqfdn7eplob3qzGsnzgRYbk0rjdk4wRfgY2Zm/wjbU7KXgI0eStUY97ew7jbG2UKX5P7+nXMRmubMyzLA8ynF8PaxKNdn6P+nR/z6soID3l0E3LRdFXUMZBmo0CcYRIZfuPblCTyp/ui3oa5vmZgU3uBf96QjqyGmkM+C5eYkQvEDZ0nL0s6vSSkNMx6C0F+Sg97KtYgyiP1lqnqJ+Opwc0koscEg6yarTACwSaepqmIICxUGPZUPcAVd2js8ZrqDY/plarJv/Jpna5jy2desT6ftvTNm1SSx4YDw2g9Vfw2vomkguLuM2aPjku1AeExiPvDl1/7ukKb0gh9Aj1JD+LHeMiwXliPPrjNVuQQFfvMvEKsNPughEljZuOqxJ1lj9CpVa5EfFZIVurLMdlQ1mFaznp2APj0TRHsKchAHtKo6aGPWedYGdFwe2p14X/DRGkL+R2UmAXbSSXERlbT6A9DMJT/s+6oCIXcAS6EXrF4tzUU7DKAoDzZPifBE1WNCnGGO9Iyo3ZNavDdWy3kOS9b0hD82/yYQPbnOisf96eji0lhy3ESlJq/KBkYIICgj3s9eGF8U9RE="
