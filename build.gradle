@@ -5,6 +5,6 @@ task assemble {
 }
 task check {
     doLast {
-        println 'Hello, World!'
+        println 'Hi Mummy!'
     }
 }
