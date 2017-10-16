@@ -1,4 +1,9 @@
-task hello {
+task assemble {
+    doLast {
+        println 'Hello, World!'
+    }
+}
+task check {
     doLast {
         println 'Hello, World!'
     }
